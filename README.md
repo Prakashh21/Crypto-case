@@ -1,70 +1,102 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Crypto Case    
 
-In the project directory, you can run:
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Screenshot (9)](https://user-images.githubusercontent.com/90280586/187537389-095ad2bb-dfa0-42d6-939a-00326430c145.png)
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot (8)](https://user-images.githubusercontent.com/90280586/187537409-c0bd0a9d-47e1-42d9-bcf7-9a7fe31961c1.png)
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot (11)](https://user-images.githubusercontent.com/90280586/187537434-e30322cc-e090-4a6f-841f-073defb1dd60.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## mobile screenshots
 
-### `yarn eject`
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/90280586/187537460-cd434147-e1bb-45f5-8786-cbe755af21c3.jpg" width="500"/>
+  <img src="https://user-images.githubusercontent.com/90280586/187537464-69bfa6b5-74bc-492b-96e6-77e45e721aa6.png" width="500" /> 
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Getting Started
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Clone this Repository using `git clone https://github.com/Prakashh21/Netflix_UI.git` <br/>
+<br/>
+Change directory to the project directory using `cd Netflix_UI` <br/>
+<br/>
+Run command `npm i && npm start` 
+<br/>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Project Structure
+```
+.
+├── LICENSE.md
+├── README.md
+├── firebase.json
+├── node_modules
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── public
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── manifest.json
+│   └── robots.txt
+├── src
+│   ├── App.js
+│   ├── components
+│   │   ├── CoinItem.jsx
+│   │   ├── Coinsearch.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── SavedCoin.jsx
+│   │   ├── ThemeToggle.jsx
+│   │   └── Trending.jsx
+│   ├── context
+│   │   ├── AuthContext.jsx
+│   │   └── themeContext.jsx
+│   ├── firebase.js
+│   ├── index.css
+│   ├── index.js
+│   └── routes
+│       ├── Account.jsx
+│       ├── CoinPage.jsx
+│       ├── Home.jsx
+│       ├── Signin.jsx
+│       └── Signup.jsx
+├── tailwind.config.js
+└── yarn.lock
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+6 directories, 32 files
 
-### Code Splitting
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## ⭐ Features
 
-### Advanced Configuration
+- A platform for tracking your favourite crypto currencies in Real Time
+- Light and Dark mode for the reponsive UI.
+- Users have the ability to track specific coins by adding them into their watchlist and that data would be persistent.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🐛 Bug Reporting
 
-### Deployment
+I am continiously developing this , so feel free to [report any bug](https://github.com/Prakashh21/Bigsur-Clone/issues/new).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## ⭐ Feature Request
 
-### `yarn build` fails to minify
+I would hugely appreciate your feedbacks and feature proposals on the project , feel free to [open an issue](https://github.com/Prakashh21/Bigsur-Clone/issues/new) for the same.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📜 License
+
+This is an Open-Source Project, Licensed under [MIT License](https://github.com/Prakashh21/Bigsur-Clone/blob/master/License.md). 
