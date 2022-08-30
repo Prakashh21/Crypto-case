@@ -1,5 +1,5 @@
 import React from 'react';
-import {HiSun , HiMoon} from 'react-icons/h1';
+import {HiSun , HiMoon} from 'react-icons/hi';
 import { ThemeContext } from '../context/themeContext';
 
 const ThemeToggle = () => {
