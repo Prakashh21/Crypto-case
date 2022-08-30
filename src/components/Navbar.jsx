@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import ThemeToggle from './ThemeToggle';
 import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai';
-
+import { UserAuth } from '../context/AuthContext';
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
