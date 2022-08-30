@@ -17,8 +17,8 @@
 ## mobile screenshots
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/90280586/187537460-cd434147-e1bb-45f5-8786-cbe755af21c3.jpg" width="500"/>
-  <img src="https://user-images.githubusercontent.com/90280586/187537464-69bfa6b5-74bc-492b-96e6-77e45e721aa6.png" width="500" /> 
+  <img src="https://user-images.githubusercontent.com/90280586/187537460-cd434147-e1bb-45f5-8786-cbe755af21c3.jpg" width="400"/>
+  <img src="https://user-images.githubusercontent.com/90280586/187537464-69bfa6b5-74bc-492b-96e6-77e45e721aa6.png" width="400" /> 
 </p>
 
 ## Getting Started
