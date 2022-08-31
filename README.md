@@ -23,9 +23,9 @@
 
 ## Getting Started
 
-Clone this Repository using `git clone https://github.com/Prakashh21/Netflix_UI.git` <br/>
+Clone this Repository using `git clone https://github.com/Prakashh21/Crypto-case.git` <br/>
 <br/>
-Change directory to the project directory using `cd Netflix_UI` <br/>
+Change directory to the project directory using `cd Crypto-case` <br/>
 <br/>
 Run command `npm i && npm start` 
 <br/>
